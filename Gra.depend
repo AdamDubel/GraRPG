@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1686663149 source:c:\users\48663\desktop\studia\trzeci rok\semestr letni\programowanie\gra\gra\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
